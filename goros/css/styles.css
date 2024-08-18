@@ -10805,7 +10805,7 @@ body {
 }
 
 .event-title {
-  font-size: 1.2em;
+  font-size: 0.8em;
   color: #2c3e50;
   margin-bottom: 10px;
   border-bottom: 2px solid #3498db;
@@ -10813,14 +10813,14 @@ body {
 }
 
 .explanation {
-  font-size: 1em;
+  font-size: 0.6em;
   color: #2c3e50;
   margin-bottom: 10px;
   padding-bottom: 5px;
 }
 
 .mnemonic {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #34495e;
   margin: 10px 0;
   padding-left: 30px;
@@ -10838,7 +10838,7 @@ body {
 }
 
 .tag {
-  font-size: 0.9em;
+  font-size: 0.6em;
   color: #8e44ad;
   background-color: #dce0e3;
   padding: 5px 10px;
@@ -10848,7 +10848,7 @@ body {
 }
 
 .explanation-mark {
-  font-size: 0.9em;
+  font-size: 0.7em;
   color: #ffffff; /* 白 */
   background-color: #3498db; /* 明るい青 */
   padding: 5px 10px;
